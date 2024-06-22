@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Face-Detection-Website-Using-React/static/css/main.34dafe79.css",
+    "main.js": "/Face-Detection-Website-Using-React/static/js/main.fe2576be.js",
+    "index.html": "/Face-Detection-Website-Using-React/index.html",
+    "main.34dafe79.css.map": "/Face-Detection-Website-Using-React/static/css/main.34dafe79.css.map",
+    "main.fe2576be.js.map": "/Face-Detection-Website-Using-React/static/js/main.fe2576be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34dafe79.css",
+    "static/js/main.fe2576be.js"
+  ]
+}
